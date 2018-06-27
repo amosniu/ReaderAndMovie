@@ -1,0 +1,8 @@
+<!-- wxml是编写小程序骨架的文件 -->
+<view class='container'>
+  <image class = "head_image" src = "/images/head_image.jpg"></image>
+  <text class = "hello_fonts">hello amosniu</text>
+  <view class='title_container'>
+    <text class='title_fonts'>开启小程序之旅</text>
+  </view>
+</view>

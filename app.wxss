@@ -1,0 +1,4 @@
+/* 全局字体类型设置 */
+text{
+  font-family: Microsoft YaHei;
+}
