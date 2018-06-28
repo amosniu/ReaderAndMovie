@@ -1,0 +1,16 @@
+<view>
+  <swiper indicator-dots='true' autoplay='true' interval='5000'>
+    <swiper-item>
+      <image src='https://images.unsplash.com/photo-1530103862676-de8c9debad1d?                        ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=af5af77aed859c2f16c5234900f54ab9&                             auto=format&fit=crop&w=500&q=60'>
+      </image>
+    </swiper-item>
+    <swiper-item>
+      <image src='https://images.unsplash.com/photo-1530099486328-e021101a494a?                        ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2c7643fb013ab8c6f6bb8e28fe596690&                             auto=format&fit=crop&w=500&q=60'>
+      </image>
+    </swiper-item>
+    <swiper-item>
+      <image src='https://images.unsplash.com/photo-1530092140914-77b08774835e?                        ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1ecaeb24dcc68b83c6a8d73c9eba4e40&                             auto=format&fit=crop&w=500&q=60'>
+      </image>
+    </swiper-item>
+  </swiper>
+</view>
