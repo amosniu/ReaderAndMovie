@@ -13,4 +13,34 @@
       </image>
     </swiper-item>
   </swiper>
+  <view class='post-container'>
+    <view class='post-author-date'>
+      <image class='post-author' src='/images/avatar/1.png'></image>
+      <text class='post-date'>2018年7月5日</text>
+    </view>
+    <text class='post-title'>习近平：领导干部要多读一点历史</text>
+    <image class='post-image' src='/images/post/XJP.jpg'></image>
+    <text class='post-content'>明镜所以照形，古事所以知今。习近平总书记近日在山东考察时，专程来到甲午海战故地刘公岛，来到古代海上丝绸之路起点的蓬莱市，冒雨登临蓬莱阁，推开历史厚重的大门，倾听岁月无声的启迪。他语重心长地说：“我国古代史、近代史、现代史构成了中华民族的丰富历史画卷。领导干部要多读一点历史，从历史中汲取更多精神营养。”</text>
+    <view class='post-like'>
+      <image class='post-like-image' src='/images/icon/chat.png'></image>
+      <text class='post-like-font'>90</text>
+      <image class='post-like-image' src='/images/icon/view.png'></image>
+      <text class='post-like-font'>60</text>
+    </view>
+  </view>
+  <view class='post-container'>
+    <view class='post-author-date'>
+      <image class='post-author' src='/images/avatar/1.png'></image>
+      <text class='post-date'>2018年7月5日</text>
+    </view>
+    <text class='post-title'>习近平：领导干部要多读一点历史</text>
+    <image class='post-image' src='/images/post/XJP.jpg'></image>
+    <text class='post-content'>明镜所以照形，古事所以知今。习近平总书记近日在山东考察时，专程来到甲午海战故地刘公岛，来到古代海上丝绸之路起点的蓬莱市，冒雨登临蓬莱阁，推开历史厚重的大门，倾听岁月无声的启迪。他语重心长地说：“我国古代史、近代史、现代史构成了中华民族的丰富历史画卷。领导干部要多读一点历史，从历史中汲取更多精神营养。”</text>
+    <view class='post-like'>
+      <image class='post-like-image' src='/images/icon/chat.png'></image>
+      <text class='post-like-font'>90</text>
+      <image class='post-like-image' src='/images/icon/view.png'></image>
+      <text class='post-like-font'>60</text>
+    </view>
+  </view>
 </view>
